@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "360548886806",
+    "project_id": "jenny-example",
+    "storage_bucket": "jenny-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360548886806:android:b4d3e1eac4e4883f94c837",
+        "android_client_info": {
+          "package_name": "com.android.jenny.analysisexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360548886806-n3u7v4tbml9k4ukn7q9be1gmqtedamvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbOrhNUzGJt3SvcRJXi_o6XDguod9de6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360548886806-n3u7v4tbml9k4ukn7q9be1gmqtedamvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360548886806:android:0056feb505cd1f5794c837",
+        "android_client_info": {
+          "package_name": "com.android.jenny.objectdetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360548886806-n3u7v4tbml9k4ukn7q9be1gmqtedamvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbOrhNUzGJt3SvcRJXi_o6XDguod9de6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360548886806-n3u7v4tbml9k4ukn7q9be1gmqtedamvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

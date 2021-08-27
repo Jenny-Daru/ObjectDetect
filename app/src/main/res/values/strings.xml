@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ObjectDetect</string>
+    <string name="image_view_content_desc">Gallery image</string>
+    <string name="not_found">Not Found</string>
+    <string name="tv_placeholder">Object detection demo</string>
+    <string name="tv_description">Select a image</string>
+</resources>
